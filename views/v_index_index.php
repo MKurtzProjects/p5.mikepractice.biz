@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -14,7 +16,9 @@
 			<div class="right">
 
 				<ul id="action_list">
-					<li> <a href='/problems'>Try some problems</a> </li>
+					<h2>Math is fun!</h2>
+					<p>It's great to see you again, <?php echo $user->first_name; ?>.</p>
+					<p>How's your studying going?  Remember, you can use the menu above to select the virtual 'chapter' that you're looking to study.</p>
 				</ul>
 
 

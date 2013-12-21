@@ -23,7 +23,7 @@
 
 <h1> Consecutive Integers </h1>
 <div id="accordion">
-  <h3>How it's done</h3>
+  <h3>How to solve them</h3>
   <div>
 
 
@@ -49,8 +49,7 @@
 
     <h3> Try it! </h3>
     <div>
-    <li><a id = "consecutive_integers" href="#">Consecutive Integer Problem (easy) </a></li>
-    <li><a id = "sum_of_consecutive_integers" href="#">Consecutive Integer Problem (hard) </a></li>
+    <button type="button" id="consecutive_integers">New Problem</button>
     <h2> <span id='equation'></span> 
         <span id='answer'></span> </h2>  
         <div id='check_section'>

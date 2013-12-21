@@ -28,7 +28,7 @@
 
     <div id='head'>
 
-        <div id='menu'>
+        <div id='mainmenu'>
             <a id="logo" href='/'> <img src="/images/logo.png" alt=""></a></p>
 
 
@@ -37,15 +37,21 @@
             <?php if($user): ?>
                 
                 <ul>
-                    <li><a href='/users/logout'>Logout</a></li>
+                    <li class='useractions'><a href='/users/logout'>Logout</a></li>
                 </ul>
+        <ul id='chapters'>
+          <li><a href="/index">Home</a></li>
+          <li><a href="/problems/percent">Percent Problems</a></li>
+          <li><a href="/problems/rate">Rate Problems</a></li>
+          <li><a href="/problems/consecutive_integers">Consecutive Integer Problems</a></li>
+        </ul>
 
             <!-- Menu options for users who are not logged in -->
             
             <?php else: ?>
                 <ul>
-                    <li><a href='/users/signup'>Sign up</a></li>
-                    <li><a href='/index/index/'>Log in</a></li>
+                    <li class='useractions'><a href='/users/signup'>Sign up</a></li>
+                    <li class='useractions'><a href='/index/index/'>Log in</a></li>
                 </ul>
             <?php endif; ?>
         </div> 
@@ -54,11 +60,7 @@
 
     <div id="container">
 
-                <ul id="menu">
-          <li><a href="/problems/percent">Percent</a></li>
-          <li><a href="#">Rate</a></li>
-          <li><a href="#">Consecutive Integers</a></li>
-        </ul>
+
 
     <div id="content">
 

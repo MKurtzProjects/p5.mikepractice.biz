@@ -131,13 +131,11 @@ answercheck(results);
 
     var percent = function( ) {
 
-    var original = Math.floor((Math.random()*20)+1)*5;
-    var percent_increase = Math.floor((Math.random()*20)+1)*5;
-    var percent_decrease = Math.floor((Math.random()*20)+1)*5;
-    var answer = original * ((percent_increase + 100) / 100) * (percent_decrease / 100);
-    var results = percent_decrease;
+    var original = Math.floor((Math.random()*100)+1);
+    var percent_increase = Math.floor((Math.random()*100)+1);
+    var results = original * ((percent_increase + 100) / 100);
 
-    $('#equation').html(original + ' is increased by ' + percent_increase + '% and then reduced by y%, yielding ' + answer + '.  What is y?');
+    $('#equation').html(original + ' is increased by ' + percent_increase + '% to yield the result, y. What is y?');
     answercheck(results);
 };
 

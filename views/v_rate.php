@@ -23,7 +23,7 @@
 
 <h1> Rate Problems </h1>
 <div id="accordion">
-  <h3>Rate problems</h3>
+  <h3>How to solve them</h3>
   <div>
 
 
@@ -37,9 +37,9 @@
 
   </div>
 
-    <h3> Try some! </h3>
+    <h3> Try it out! </h3>
     <div>
-    <li><a id = "wash" href="#">Rate Problem</a></li>
+    <button type="button" id="train">New Problem</button>
     <h2> <span id='equation'></span> 
         <span id='answer'></span> </h2>  
         <div id='check_section'>

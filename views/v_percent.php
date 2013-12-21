@@ -3,7 +3,6 @@
 
 <head>
     <title>Percents</title>
-    <link rel="stylesheet" href="/css/numbers.css" type="text/css">
     <link href="../css/ui-lightness/jquery-ui-1.10.3.custom.css" rel="stylesheet">
 
     <script src="../js/jquery-1.9.1.js"></script>
@@ -23,7 +22,7 @@
 
 <h1> Percents </h1>
 <div id="accordion">
-  <h3>How to solve 'em</h3>
+  <h3>How to solve them</h3>
   <div>
 
 
@@ -36,7 +35,7 @@
 
     <h3> Try it! </h3>
     <div>
-    <li><a id = "percent" href="#">Percent</a></li>
+    <button type="button" id="percent">New Problem</button>
     <h2> <span id='equation'></span> 
         <span id='answer'></span> </h2>  
         <div id='check_section'>
