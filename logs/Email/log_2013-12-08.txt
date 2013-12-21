@@ -1,0 +1,15 @@
+2013-12-08 15:51:50 - INFO --> -------------------------- 
+2013-12-08 15:51:50 - INFO --> Controller/Method: users/p_signup 
+2013-12-08 15:51:50 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-08 15:51:50 - INFO --> To: Mike (michaelkurtz10@gmail.com),  
+2013-12-08 15:51:50 - INFO --> CC:  
+2013-12-08 15:51:50 - INFO --> BCC:  
+2013-12-08 15:51:50 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-08 15:51:50 - INFO --> Body: <h1> Welcome to ShareStuff, Mike! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not Mike Kurtz?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-08 15:51:50 - INFO --> FAILED TO SEND EMAIL 

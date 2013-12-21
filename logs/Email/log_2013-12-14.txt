@@ -1,0 +1,210 @@
+2013-12-14 12:19:12 - INFO --> -------------------------- 
+2013-12-14 12:19:12 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 12:19:12 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 12:19:12 - INFO --> To:  (email@test.com),  
+2013-12-14 12:19:12 - INFO --> CC:  
+2013-12-14 12:19:12 - INFO --> BCC:  
+2013-12-14 12:19:12 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 12:19:12 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 12:19:12 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 12:26:10 - INFO --> -------------------------- 
+2013-12-14 12:26:10 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 12:26:10 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 12:26:10 - INFO --> To:  (asdf),  
+2013-12-14 12:26:10 - INFO --> CC:  
+2013-12-14 12:26:10 - INFO --> BCC:  
+2013-12-14 12:26:10 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 12:26:10 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 12:26:10 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 12:30:30 - INFO --> -------------------------- 
+2013-12-14 12:30:30 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 12:30:30 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 12:30:30 - INFO --> To:  (afd),  
+2013-12-14 12:30:30 - INFO --> CC:  
+2013-12-14 12:30:30 - INFO --> BCC:  
+2013-12-14 12:30:30 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 12:30:30 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 12:30:30 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 12:37:16 - INFO --> -------------------------- 
+2013-12-14 12:37:16 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 12:37:16 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 12:37:16 - INFO --> To: asdf (gsd),  
+2013-12-14 12:37:16 - INFO --> CC:  
+2013-12-14 12:37:16 - INFO --> BCC:  
+2013-12-14 12:37:16 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 12:37:16 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, asdf! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not asdf ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 12:37:16 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 12:44:53 - INFO --> -------------------------- 
+2013-12-14 12:44:53 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 12:44:53 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 12:44:53 - INFO --> To:  (),  
+2013-12-14 12:44:53 - INFO --> CC:  
+2013-12-14 12:44:53 - INFO --> BCC:  
+2013-12-14 12:44:53 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 12:44:53 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 12:44:53 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 12:48:37 - INFO --> -------------------------- 
+2013-12-14 12:48:37 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 12:48:37 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 12:48:37 - INFO --> To:  (asegg),  
+2013-12-14 12:48:37 - INFO --> CC:  
+2013-12-14 12:48:37 - INFO --> BCC:  
+2013-12-14 12:48:37 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 12:48:37 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 12:48:37 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 12:56:04 - INFO --> -------------------------- 
+2013-12-14 12:56:04 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 12:56:04 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 12:56:04 - INFO --> To:  (asdhsdh),  
+2013-12-14 12:56:04 - INFO --> CC:  
+2013-12-14 12:56:04 - INFO --> BCC:  
+2013-12-14 12:56:04 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 12:56:04 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 12:56:04 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 12:58:31 - INFO --> -------------------------- 
+2013-12-14 12:58:31 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 12:58:31 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 12:58:31 - INFO --> To:  (zbxc),  
+2013-12-14 12:58:31 - INFO --> CC:  
+2013-12-14 12:58:31 - INFO --> BCC:  
+2013-12-14 12:58:31 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 12:58:31 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 12:58:31 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 13:11:29 - INFO --> -------------------------- 
+2013-12-14 13:11:29 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 13:11:29 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 13:11:29 - INFO --> To:  (hasdh),  
+2013-12-14 13:11:29 - INFO --> CC:  
+2013-12-14 13:11:29 - INFO --> BCC:  
+2013-12-14 13:11:29 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 13:11:29 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 13:11:29 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 13:35:47 - INFO --> -------------------------- 
+2013-12-14 13:35:47 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 13:35:47 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 13:35:47 - INFO --> To:  (emaasdfas),  
+2013-12-14 13:35:47 - INFO --> CC:  
+2013-12-14 13:35:47 - INFO --> BCC:  
+2013-12-14 13:35:47 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 13:35:47 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 13:35:47 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 13:36:23 - INFO --> -------------------------- 
+2013-12-14 13:36:23 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 13:36:23 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 13:36:23 - INFO --> To:  (asdg),  
+2013-12-14 13:36:23 - INFO --> CC:  
+2013-12-14 13:36:23 - INFO --> BCC:  
+2013-12-14 13:36:23 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 13:36:23 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 13:36:23 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 13:37:26 - INFO --> -------------------------- 
+2013-12-14 13:37:26 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 13:37:26 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 13:37:26 - INFO --> To:  (asdfg@test.com),  
+2013-12-14 13:37:26 - INFO --> CC:  
+2013-12-14 13:37:26 - INFO --> BCC:  
+2013-12-14 13:37:26 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 13:37:26 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 13:37:26 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 13:39:40 - INFO --> -------------------------- 
+2013-12-14 13:39:40 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 13:39:40 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 13:39:40 - INFO --> To:  (sg.com),  
+2013-12-14 13:39:40 - INFO --> CC:  
+2013-12-14 13:39:40 - INFO --> BCC:  
+2013-12-14 13:39:40 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 13:39:40 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, ! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not  ?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 13:39:40 - INFO --> FAILED TO SEND EMAIL 
+2013-12-14 14:08:09 - INFO --> -------------------------- 
+2013-12-14 14:08:09 - INFO --> Controller/Method: users/p_signup 
+2013-12-14 14:08:09 - INFO --> From: Share Stuff (michaelkurtz10@gmail.com) 
+2013-12-14 14:08:09 - INFO --> To: George (george@hoiashdf.com),  
+2013-12-14 14:08:09 - INFO --> CC:  
+2013-12-14 14:08:09 - INFO --> BCC:  
+2013-12-14 14:08:09 - INFO --> Subject: Welcome to Share Stuff 
+2013-12-14 14:08:09 - INFO --> Body: <h1> Welcome to the Ultimate Mathbook, George! </h1>
+
+<p> This is your email confirmation. You are now signed up. </p>
+
+<p> Log in here: <a href="/users/login">Log In</a> </p>
+
+<p> Not George Thurgood?  Contact michaelkurtz10@gmail.com to delete your account. 
+2013-12-14 14:08:09 - INFO --> FAILED TO SEND EMAIL 

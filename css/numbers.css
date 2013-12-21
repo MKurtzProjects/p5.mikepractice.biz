@@ -1,0 +1,53 @@
+body {
+		font-family: "Trebuchet MS", sans-serif;
+		margin: 0px 40px;
+		font-size: 12px;
+		color:white;
+}
+
+#problem {
+	border: 1px solid grey;
+	padding: 3%;
+	position: relative;
+	bottom: 30px;
+	margin: 0% 0% 0% 35%;
+	background-color: white;
+}
+
+#check, #answer_input  {
+	display:none;
+}
+
+#equation {
+	font-size: 12px;
+}
+
+
+input {
+	display: inline-block;
+}
+
+
+.menu {
+	font-size: small;
+	margin:0;
+	padding:0;
+	position: relative;
+	margin: 1%;
+	float:left;
+}
+
+a:link {
+	color:white;
+	text-decoration: none;
+	}      /* unvisited link */
+
+a:visited {
+	color:white;
+	text-decoration: none;
+	}      /* unvisited link */
+
+.accordian div {
+	width:200px;
+}
+
